@@ -10,7 +10,7 @@ export default class QuickGrab extends Plugin {
 		//	callback: function() {
 		//
 		//	}
-		}];
+		//}];
 		// Arrow funtion (`=>`) implies access to `this`;
 		//commands.forEach((command) => {
 		//	this.addCommand(command);
